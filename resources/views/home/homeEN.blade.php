@@ -40,12 +40,12 @@ $product = \App\Product::find($cart->product_id);
             <img src="{{ asset('img/slide-4.jpg') }}" alt="" class="img-fluid">
         </div>
         <div class="col-md-6">
-            <h1>This is the Intro Paragraph</h1>
+            <h1>This is the Size of My Balls</h1>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim, aliquam sequi perferendis fugiat at
                 eligendi maiores ex, repudiandae distinctio vitae quia. Quam et vitae illum, voluptatibus enim odio
                 commodi. Enim a nam illo velit harum eligendi similique veniam? Dolorem exercitationem qui veniam
-                explicabo fugit, dignissimos nostrum harum consequatur dolores, doloremque sit, nobis consectetur. Iusto
+                explicabo fugit, <h2>BALLS</h2>dolores, doloremque sit, nobis consectetur. Iusto
                 sequi veniam qui animi ex magnam harum hic voluptatem provident corrupti voluptate itaque doloribus id
                 reprehenderit, dolor nulla porro vel doloremque! Repudiandae impedit quod culpa esse. Veritatis eos
                 incidunt, aspernatur maiores blanditiis asperiores. Repellendus itaque quod non, nobis ea minus.
