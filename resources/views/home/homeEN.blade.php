@@ -58,7 +58,7 @@ $product = \App\Product::find($cart->product_id);
 </div>
 <div class="container section-150 section-2">
     <div class="title-part">
-        <h1>Why I Made This</h1>
+        <h3>Why I Made This</h3>
     </div>
     <div class="row front-mid-icons-container">
         <div class="col-md-4 front-mid-icons">
@@ -76,7 +76,7 @@ $product = \App\Product::find($cart->product_id);
         </div>
         <div class="col-md-4 front-mid-icons">
             <div>
-                <span><i class="fas fa-car"></i></span>
+                <div><i class="fas fa-car"></i></div>
 
             </div>
             <div>
@@ -104,7 +104,7 @@ $product = \App\Product::find($cart->product_id);
 
 </div>
 <div class="section-150 section-3"
-    style="background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url({{ asset('img/slide-1.jpg') }})">
+    style="background-image:linear-gradient(rgba(0,5,8,0.4), rgba(3,0,7,0.4)), url({{ asset('img/slide-1.jpg') }})">
     <h1>
         Why I Made This?
     </h1>
